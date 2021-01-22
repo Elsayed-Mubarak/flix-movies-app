@@ -1,0 +1,13 @@
+.container {
+    padding: 58px;
+    border-radius: 20px;
+}
+
+.card-img, .card-img-top {
+    border-top-left-radius: calc(1rem - 1px);
+    border-top-right-radius: calc(1rem - 1px);
+}
+
+a{
+    color: green;
+}
